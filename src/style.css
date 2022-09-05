@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(100, 100, 248);
+}
+
+h1 {
+    color: white;
+}
+
+section {
+    padding: 5px;
+    width: 500px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.lista {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+
+}
